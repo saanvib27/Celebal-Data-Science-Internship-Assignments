@@ -1,33 +1,19 @@
 # Celebal Data Science Internship Assignments
 
-This repository contains the weekly assignments and learning exercises completed during the Celebal Technologies Data Science Internship.
+This repository contains my weekly assignments completed during the **Celebal Technologies Data Science Internship**.
 
-## Weekly Progress
+## Assignments
 
-### Week 1
+- **Week 1:** Python Fundamentals & NumPy
+- **Week 2:** End-to-End Machine Learning Pipeline on Tesla Deliveries and Production Data (2015–2025)
 
-**Topics Covered:**
+### Tools & Libraries
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Statsmodels
 
-* Python Fundamentals
-* NumPy
-* Pandas
-* Linear Algebra
-* Statistics
-* Probability
-
-**Assignment File:**
-
-* `week1_assignment.ipynb`
-
-## Repository Structure
-
-```text
-Celebal-Data-Science-Internship-Assignments
-│
-├── week1_assignment.ipynb
-└── README.md
-```
-
-## About
-
-This repository will be updated weekly with assignments, exercises, and projects completed throughout the internship program.
+**Author:** Saanvi Balki
