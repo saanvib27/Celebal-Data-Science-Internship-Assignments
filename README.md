@@ -7,5 +7,6 @@ This repository contains my weekly assignments completed during the **Celebal Te
 - **Week 1:** Python Fundamentals & NumPy
 - **Week 2:** End-to-End Machine Learning Pipeline on Tesla Deliveries and Production Data (2015–2025)
 - **Week 3:** Customer Intelligence System using Classification, Ensemble Learning & Clustering (K-Means, DBSCAN)
+- **Week 4:** CIFAR-10 Image Classification using Artificial Neural Networks (ANN) and Convolutional Neural Networks (CNN) with Data Augmentation & Early Stopping
 
 **Author:** Saanvi Balki
